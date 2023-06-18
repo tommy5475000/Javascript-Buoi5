@@ -104,7 +104,7 @@ function tiencap() {
   }
   document.getElementById(
     "txtResult4"
-  ).innerHTML = `Mã khách hàng: ${maSo};  Tiền cáp: ${tc}`;
+  ).innerHTML = `Mã khách hàng: ${maSo};  Tiền cáp: ${tc}$`;
 }
 
 function tinhTong(a,maSo,soKenh,ketNoi,c,l){
