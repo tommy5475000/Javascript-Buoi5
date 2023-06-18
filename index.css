@@ -1,0 +1,19 @@
+.content .left_menu button.active{
+    background-color: blue;
+    color: white;
+}
+
+.content .left_menu button{
+    border: 1px solid ;
+}
+
+.content .left_menu .nav-tabs{
+    border-bottom: none;
+}
+
+#input13{
+    display:none;
+}
+
+
+
